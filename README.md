@@ -8,3 +8,6 @@ Are you a female that is scared to join the Tech Industry? Don't be, we got your
 * 
 
 Make a PR to add your name and company.  Lets not harp on the past, lets just move forward and change the future. <3
+
+#FAQ
+* Here: https://news.ycombinator.com/item?id=8091108
